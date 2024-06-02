@@ -1,1 +1,1 @@
-# Chronovis_Prototype_javascript
+# Chronovis Prototype: javascript version
